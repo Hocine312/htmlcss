@@ -1,0 +1,83 @@
+body {
+    background-color: #d3f7f5;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    border: #333 2px solid;
+    background: #c64747;
+    padding: 10px 0;
+    color: rgb(216, 182, 182);
+    margin: auto;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: #444;
+    border: #333 2px solid;
+    margin: 20px 0;
+    background-color: #78eee8;
+}
+
+h2 {
+    color: #2b1313;
+    background-color: rgb(115, 172, 221);
+    border: #333 2px solid;
+    padding: 10px;
+    margin: 20px auto;
+}
+
+.nutritional-info {
+    border: #333 2px solid;
+    padding: 10px;
+    margin: 20px auto;
+    width: 80%;
+}
+
+.ingredients {
+    border: #333 2px solid;
+    padding: 10px;
+    margin: 20px auto;
+    width: 80%;
+}
+
+.instructions {
+    background: #e28e8e;
+    border: #333 2px solid;
+    padding: 10px;
+    margin: 20px auto;
+    width: 80%;
+}
+
+.nutritional-info {
+    font-weight: 300; /* More readable than 100 */
+    background: #9ce684;
+}
+
+
+ul {
+    margin: 10px 0 20px 20px;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-color: burlywood;
+    margin: 20px 0;
+}
+img {
+    max-width: 40%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border: #333 2px solid;
+    padding: 5px;
+    background-color: rgb(72, 26, 26);
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3);    
+
+}
